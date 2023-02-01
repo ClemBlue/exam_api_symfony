@@ -2,5 +2,7 @@
 Utilisez PHP 8 avec Symfony 6
 
 Après avoir cloné le repos
-utilisé composer install
-lancé l'app avec symfony server:start
+
+Utilisé composer install
+
+Lancé l'app avec symfony server:start
